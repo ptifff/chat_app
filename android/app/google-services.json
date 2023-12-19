@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370121528516",
+    "project_id": "fir-b242c",
+    "storage_bucket": "fir-b242c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370121528516:android:ef4254e998392c96da2591",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMNMHqyDHdDKHdv1hF4KheaYLcEbGSCKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
